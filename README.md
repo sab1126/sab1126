@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Sabrina</h1>
 <h3 align="center">Computer Science Student | Passionate about NLP</h3>
-- ❤ My hobbies are **Aerial yoga 🧘‍♀️, exploring different cafés ☕, and traveling 🌍**
 
+- ❤ My hobbies are **Aerial yoga 🧘‍♀️, exploring different cafés ☕, and traveling 🌍**
 - 📫 How to reach me **sabrina398866@gmail.com**
 
 
